@@ -1,8 +1,8 @@
-"FOUND_BUTTON" = "Found this %@?";
-"CLOSE" = "Close";
-"OWNER" = "The owner of this device is:";
-"LIVE1" = "Please tap on one of the buttons below to call me or send me an E-Mail.\nThank you!";
-"LIVE2" = "I live in %@\nPlease tap on one of the buttons below to call me or send me an E-Mail.\nThank you!";
-"LIVE3" = "I live in %@, %@\nPlease tap on one of the buttons below to call me or send me an E-Mail.\nThank you!";
-"CALL" = "Call";
-"EMAIL" = "E-Mail";
+"FOUND_BUTTON" = "Deze %@ gevonden?";
+"CLOSE" = "Sluit";
+"OWNER" = "De eigenaar van dit apparaat is:";
+"LIVE1" = "Druk alstublieft op een van de onderstaande knoppen om me te bellen of me een e-mail te sturen.\nBedankt!";
+"LIVE2" = "Ik woon in %@\nDruk alstublieft op een van de onderstaande knoppen om me te bellen of me een e-mail te sturen.\nBedankt!";
+"LIVE3" = "Ik woon in %@, %@\nDruk alstublieft op een van de onderstaande knoppen om me te bellen of me een e-mail te sturen.\nBedankt!";
+"CALL" = "Bel";
+"EMAIL" = "E-mail";
