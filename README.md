@@ -20,5 +20,7 @@ If your language isn't listed, please message me on Twitter or create an issue a
 
 ## Languages done
 
-* English (by @Ziph0n)
-* French (by @Ziph0n)
+* Dutch
+* English
+* French
+* Spanish
