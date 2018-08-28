@@ -23,4 +23,6 @@ If your language isn't listed, please message me on Twitter or create an issue a
 * Dutch
 * English
 * French
+* German
+* Indonesian
 * Spanish
