@@ -1,8 +1,8 @@
-"FOUND_BUTTON" = "¿Encontras este %@?";
+"FOUND_BUTTON" = "¿Encontraste este %@?";
 "CLOSE" = "Cerrar";
 "OWNER" = "El dueño de este teléfono es:";
-"LIVE1" = "Por favor toca uno de los botones debajo para te llama o te envia un correo electrónico\n¡Gracias!";
-"LIVE2" = "Yo vivo en %@\nPor favor toca uno de los botones debajo para te llama o te envia un correo electrónico\n¡Gracias!";
-"LIVE3" = "Yo vivo en %@, %@\nPor favor toca uno de los botones debajo para te llama o te envia un correo electrónico\n¡Gracias!";
+"LIVE1" = "Por favor toca uno de los botones de debajo para llamarme o enviarme un correo electrónico\n¡Gracias!";
+"LIVE2" = "Yo vivo en %@\nPor favor toca uno de los botones de debajo para llamarme o enviarme un correo electrónico\n¡Gracias!";
+"LIVE3" = "Yo vivo en %@, %@\nPor favor toca uno de los botones de debajo para llamarme o enviarme un correo electrónico\n¡Gracias!";
 "CALL" = "Llamar por teléfono";
 "EMAIL" = "Correo electrónico";
