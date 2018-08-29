@@ -1,8 +1,8 @@
-"FOUND_BUTTON" = "Found this %@?";
-"CLOSE" = "Close";
-"OWNER" = "The owner of this device is:";
-"LIVE1" = "Please tap on one of the buttons below to call me or send me an E-Mail.\nThank you!";
-"LIVE2" = "I live in %@\nPlease tap on one of the buttons below to call me or send me an E-Mail.\nThank you!";
-"LIVE3" = "I live in %@, %@\nPlease tap on one of the buttons below to call me or send me an E-Mail.\nThank you!";
-"CALL" = "Call";
-"EMAIL" = "E-Mail";
+"FOUND_BUTTON" = "Talált eszköz %@?";
+"CLOSE" = "Bezárás";
+"OWNER" = "Az eszköz tulajdonosa:";
+"LIVE1" = "Kérem használja az alábbi gombokat, hogy kapcsolatba lépjen velem telefonon vagy E-Mail-en keresztül.\nKöszönöm!";
+"LIVE2" = "A lakhelyem %@\nKérem használja az alábbi gombokat, hogy kapcsolatba lépjen velem telefonon vagy E-Mail-en keresztül.\nKöszönöm!";
+"LIVE3" = "A lakhelyem %@, %@\nKérem használja az alábbi gombokat, hogy kapcsolatba lépjen velem telefonon vagy E-Mail-en keresztül.\nKöszönöm!";
+"CALL" = "Hívás";
+"EMAIL" = "E-Mail küldése";
