@@ -20,10 +20,14 @@ If your language isn't listed, please message me on Twitter or create an issue a
 
 ## Languages done
 
+* Amharic
+* Arabic
 * Dutch
 * English
 * French
 * German
+* Hungarian
 * Indonesian
 * Japanese
+* Portuguese (Portugal)
 * Spanish
